@@ -11,3 +11,16 @@ D:\School\AP2\OP\codingMethods\codingMethods\obj\Debug\netcoreapp3.1\codingMetho
 D:\School\AP2\OP\codingMethods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.dll
 D:\School\AP2\OP\codingMethods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.pdb
 D:\School\AP2\OP\codingMethods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.genruntimeconfig.cache
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.exe
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.deps.json
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.runtimeconfig.json
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.runtimeconfig.dev.json
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.dll
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\bin\Debug\netcoreapp3.1\codingMethods.pdb
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.csprojAssemblyReference.cache
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.AssemblyInfoInputs.cache
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.AssemblyInfo.cs
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.csproj.CoreCompileInputs.cache
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.dll
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.pdb
+D:\School\AP2\OP\shannonFanCode\coding-methods\codingMethods\obj\Debug\netcoreapp3.1\codingMethods.genruntimeconfig.cache

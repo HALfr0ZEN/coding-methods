@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\School\\AP2\\OP\\codingMethods\\codingMethods\\codingMethods.csproj",
+      "projectUniqueName": "D:\\School\\AP2\\OP\\shannonFanCode\\coding-methods\\codingMethods\\codingMethods.csproj",
       "projectName": "codingMethods",
-      "projectPath": "D:\\School\\AP2\\OP\\codingMethods\\codingMethods\\codingMethods.csproj",
+      "projectPath": "D:\\School\\AP2\\OP\\shannonFanCode\\coding-methods\\codingMethods\\codingMethods.csproj",
       "packagesPath": "C:\\Users\\Adam\\.nuget\\packages\\",
-      "outputPath": "D:\\School\\AP2\\OP\\codingMethods\\codingMethods\\obj\\",
+      "outputPath": "D:\\School\\AP2\\OP\\shannonFanCode\\coding-methods\\codingMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Adam\\AppData\\Roaming\\NuGet\\NuGet.Config",
